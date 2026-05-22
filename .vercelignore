@@ -1,0 +1,11 @@
+.env
+backend/.env
+.venv
+backend/.venv
+__pycache__
+backend/__pycache__
+*.log
+backend/*.log
+backend/output.txt
+backend/test_out*.txt
+backend/static/cards/*.html
