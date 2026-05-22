@@ -76,7 +76,7 @@ github-card-generator/
 This project was built while following the GeeksforGeeks workshop **Building Personalized Agents With ADK, CP And Memory Bank**.
 
 - Workshop video: https://www.youtube.com/live/mIeMRlWoCf0
-- LinkedIn experience post: To be added after publishing
+- LinkedIn experience post: (https://www.linkedin.com/posts/kartikeytiwari10_googlewithgfg-geeksforgeeks-googlefordevelopers-ugcPost-7463492114509770752-rZic)
 
 ## Getting Started
 
