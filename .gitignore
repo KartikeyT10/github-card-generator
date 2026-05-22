@@ -1,0 +1,12 @@
+.env
+backend/.env
+.vercel
+.venv
+backend/.venv
+__pycache__/
+*.pyc
+*.log
+backend/output.txt
+backend/test_out*.txt
+backend/static/cards/*.html
+node_modules/

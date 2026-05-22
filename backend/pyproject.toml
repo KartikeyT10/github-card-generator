@@ -1,0 +1,13 @@
+[project]
+name = "github-card-generator-backend"
+version = "0.1.0"
+description = "Backend for GitHub Dev Card Generator"
+dependencies = [
+    "mcp[fastmcp]",
+    "google-adk",
+    "google-generativeai",
+    "fastapi",
+    "uvicorn",
+    "python-dotenv",
+    "httpx",
+]
