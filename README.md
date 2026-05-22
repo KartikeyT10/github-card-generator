@@ -56,20 +56,28 @@ Shareable /card/{username} page
 
 ```text
 github-card-generator/
-├── api/
-│   └── index.py              # Vercel serverless entrypoint
-├── backend/
-│   ├── main.py               # FastAPI routes
-│   ├── mcp_server.py         # GitHub scraping, AI analysis, card HTML generation
-│   ├── requirements.txt      # Backend dependencies
-│   └── static/cards/         # Runtime card output directory
-├── frontend/
-│   ├── index.html            # User interface
-│   └── Dockerfile            # Static frontend container
-├── docker-compose.yml        # Local two-service setup
-├── requirements.txt          # Vercel dependency entrypoint
-└── vercel.json               # Production routing/build config
+|-- api/
+|   `-- index.py              # Vercel serverless entrypoint
+|-- backend/
+|   |-- main.py               # FastAPI routes
+|   |-- mcp_server.py         # GitHub scraping, AI analysis, card HTML generation
+|   |-- requirements.txt      # Backend dependencies
+|   `-- static/cards/         # Runtime card output directory
+|-- frontend/
+|   |-- index.html            # User interface
+|   `-- Dockerfile            # Static frontend container
+|-- docker-compose.yml        # Local two-service setup
+|-- requirements.txt          # Vercel dependency entrypoint
+`-- vercel.json               # Production routing/build config
 ```
+
+## Workshop Reference
+
+This project was built while following the GeeksforGeeks workshop **Building Personalized Agents With ADK, CP And Memory Bank**.
+
+- Workshop video: https://www.youtube.com/live/mIeMRlWoCf0
+- LinkedIn experience post: To be added after publishing
+- Post draft: [LINKEDIN_POST.md](LINKEDIN_POST.md)
 
 ## Getting Started
 
