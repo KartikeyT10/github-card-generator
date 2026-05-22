@@ -77,7 +77,6 @@ This project was built while following the GeeksforGeeks workshop **Building Per
 
 - Workshop video: https://www.youtube.com/live/mIeMRlWoCf0
 - LinkedIn experience post: To be added after publishing
-- Post draft: [LINKEDIN_POST.md](LINKEDIN_POST.md)
 
 ## Getting Started
 
